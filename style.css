@@ -1,0 +1,25 @@
+img {
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.content-info {
+    padding: 2%;
+    border-top: 2px solid gray;
+}
+
+.content-title {
+    padding: 2%;
+}
+
+.footer-margin {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
