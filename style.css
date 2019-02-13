@@ -1,3 +1,11 @@
+body {
+    background-image: url("images/white.jpg");
+}
+
+h1 {
+    color: #4aaaa5;
+}
+
 img {
     width: 300px;
     float: left;
@@ -7,6 +15,7 @@ img {
 .container {
     margin-top: 5%;
     margin-bottom: 5%;
+    border: 1px solid gray;
 }
 
 .content-info {
@@ -22,4 +31,10 @@ img {
     width: 100%;
     position: fixed;
     bottom: 0;
+}
+
+.name-logo {
+    color: white;
+    background-color: #4aaaa5;
+    padding: 20px;
 }
