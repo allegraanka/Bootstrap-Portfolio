@@ -1,5 +1,6 @@
 body {
     background-image: url("images/white.jpg");
+    background-size: contain;
 }
 
 h1 {
@@ -15,6 +16,10 @@ img {
 .container {
     margin-top: 5%;
     margin-bottom: 5%;
+}
+
+.content {
+    background-color: white;
     border: 1px solid gray;
 }
 
